@@ -1,1 +1,17 @@
 
+/* Time 2.0 Script : 
+/* Method		Description
+
+setHSDate()		Set the day as a number (1-30) 30 days/month in Time2.0 calendar
+
+setHSweeks()	Set the weeks (1-5) 6 days / 5 weeks
+
+setHSMonth()	Set the month (1-12) 12 months 
+
+setHSHours()	Set the hour (1-12) 12 HS/ day = 24 hr / day . 24/24=12/12=1day
+
+setBinutes()		Set the Binutes (0-59) 60 binutes / HS
+
+setSecunds()	Set the seconds (0-119) 120 seconds / binute
+
+setHSTime()		Set the time (milliseconds since 2, 2, 2022 06:00:00 GMT )
