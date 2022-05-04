@@ -1,2 +1,2 @@
-# Tarwar
-Simplified World Time
+# Simplified World Time
+CycleZero
